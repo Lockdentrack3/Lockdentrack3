@@ -1,5 +1,5 @@
-# 💫 About Me:
-<br>Programming: Python, JavaScript, C++, and more. 💻<br><br>IoT Development: Smart systems, automation, and connected devices. 🌐<br><br>Robotics: Simple humanoid robots and task-specific automation. 🤖<br><br>AI/ML Basics: Building smart, predictive models. 🧠<br><br> 🌟Web Development: Frontend and backend expertise.<br><br> 📂Database Management: SQL, NoSQL, and cloud databases.<br><br> 🔒Cybersecurity: Ensuring secure systems and applications. <br><br> 🤝Team Collaboration: Agile workflows and productive teamwork.<br><br>⚡Problem-Solving: Quick, creative, and logical thinker.<br><br> 📝Technical Writing: Documenting and sharing knowledge effectively. 
+💫 About Me:
+🌟Web Development: Frontend and backend expertise.<br><br> 📂Database Management: SQL, NoSQL, and cloud databases.<br><br> 🔒Cybersecurity: Ensuring secure systems and applications. <br><br> 🤝Team Collaboration: Agile workflows and productive teamwork.<br><br>⚡Problem-Solving: Quick, creative, and logical thinker.<br><br> 📝Technical Writing: Documenting and sharing knowledge effectively. 
 
 
 ## 🌐 Socials:
