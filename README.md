@@ -1,12 +1,230 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>⚡ Fun fact
+Ini bro, copy semua dari sini, langsung paste ganti isi README lo:
+
+```markdown
+<div align="center">
+
+```
+██╗      ██████╗  ██████╗██╗  ██╗██████╗ ███████╗███╗   ██╗████████╗██████╗  █████╗  ██████╗██╗  ██╗ ██████╗
+██║     ██╔═══██╗██╔════╝██║ ██╔╝██╔══██╗██╔════╝████╗  ██║╚══██╔══╝██╔══██╗██╔══██╗██╔════╝██║ ██╔╝╚════██╗
+██║     ██║   ██║██║     █████╔╝ ██║  ██║█████╗  ██╔██╗ ██║   ██║   ██████╔╝███████║██║     █████╔╝      ██╔╝
+██║     ██║   ██║██║     ██╔═██╗ ██║  ██║██╔══╝  ██║╚██╗██║   ██║   ██╔══██╗██╔══██║██║     ██╔═██╗      ╚═╝
+███████╗╚██████╔╝╚██████╗██║  ██╗██████╔╝███████╗██║ ╚████║   ██║   ██║  ██║██║  ██║╚██████╗██║  ██╗      ██╗
+╚══════╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝╚═════╝ ╚══════╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝      ╚═╝
+```
 
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white) ![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Lockdentrack3&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Lockdentrack3&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lockdentrack3&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=ACCESS+GRANTED+%F0%9F%94%93;System+Initializing...;sudo+rm+-rf+boring_readme;Deploying+Elite+Profile...;Welcome+to+my+Terminal+%3E_%3E)
+
+
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## `> whoami`
+
+```bash
+$ cat /etc/profile.d/lockdentrack3.conf
+
+NAME        : Lockdentrack3
+STATUS      : [ ONLINE ] ████████████████ 100%
+ROLE        : Full Stack Developer | Code Architect
+LOCATION    : /dev/earth
+MISSION     : Building things that matter
+CLEARANCE   : LEVEL 9 — UNRESTRICTED
+
+[+] Currently hacking on  → something epic
+[+] Looking for help with → collaborators & ideas
+[+] Currently learning    → new exploits & stacks
+[!] Fun fact              → I code faster than I think
+```
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## `> ls ./tech_stack/`
+
+<div align="center">
+
+
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+
+
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+
+
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+
+
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+
+
+
+![PHP](https://img.shields.io/badge/php-%2377BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+
+
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+
+
+
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+
+
+
+
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+
+
+
+
+![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
+
+
+
+
+![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
+
+
+
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+
+
+
+![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white)
+
+![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure)
+
+
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## `> cat ./stats.log`
+
+<div align="center">
+
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lockdentrack3&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=false)
+
+
+
+
+
+![Streak](https://streak-stats.demolab.com/?user=Lockdentrack3&theme=chartreuse-dark&hide_border=true)
+
+
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lockdentrack3&theme=chartreuse-dark&hide_border=true&layout=compact&cache_seconds=1800)
+
+
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## `> ./play_game.sh` 🎮
+
+<div align="center">
+
+[
+
+![Snake animation](https://raw.githubusercontent.com/Lockdentrack3/Lockdentrack3/output/github-contribution-grid-snake-dark.svg)
+
+](https://github.com/Lockdentrack3)
+
+</div>
+
+> **Aktifin snake game:** Buat file `.github/workflows/snake.yml` isi dengan ini:
+> ```yaml
+> name: Generate Snake
+> on:
+>   schedule: [{cron: "0 0 * * *"}]
+>   workflow_dispatch:
+> jobs:
+>   generate:
+>     runs-on: ubuntu-latest
+>     steps:
+>       - uses: Platane/snk@v3
+>         with:
+>           github_user_name: Lockdentrack3
+>           outputs: |
+>             dist/github-contribution-grid-snake.svg
+>             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+>       - uses: crazy-max/ghaction-github-pages@v3.1.0
+>         with:
+>           target_branch: output
+>           build_dir: dist
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+> ```
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## `> netstat -an | grep OPEN`
+
+<div align="center">
+
+[
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+](https://linkedin.com/)
+[
+
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+](https://github.com/Lockdentrack3)
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<div align="center">
+
+```
+[SESSION ACTIVE] — Lockdentrack3 is online
+> All systems operational
+> Keep coding. Stay dangerous. 🔒
+```
+
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=Lockdentrack3&color=00ff41&style=for-the-badge&label=VISITORS)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer&fontColor=00FF41" width="100%"/>
+
+</div>
+```
+
+---
