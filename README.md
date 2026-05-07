@@ -40,9 +40,6 @@ CLEARANCE   : LEVEL 9 — UNRESTRICTED
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white)
 ![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure)
-
-
-
 </div>
 
 ---
@@ -54,19 +51,9 @@ CLEARANCE   : LEVEL 9 — UNRESTRICTED
 ---
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<div align="center">
-[
-![Snake animation](https://raw.githubusercontent.com/Lockdentrack3/Lockdentrack3/output/github-contribution-grid-snake-dark.svg)
-
-](https://github.com/Lockdentrack3)
-
-</div>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 <div align="center">
-
+  
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 (https://linkedin.com/)
 
