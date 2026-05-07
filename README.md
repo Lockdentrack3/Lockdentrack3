@@ -1,15 +1,7 @@
 <div align="center">
-███╗      ██████╗  ██████╗██╗  ██╗██████╗ ███████╗███╗   ██╗████████╗██████╗  █████╗  ██████╗██╗  ██╗ ██████╗
-██║     ██╔═══██╗██╔════╝██║ ██╔╝██╔══██╗██╔════╝████╗  ██║╚══██╔══╝██╔══██╗██╔══██╗██╔════╝██║ ██╔╝╚════██╗
-██║     ██║   ██║██║     █████╔╝ ██║  ██║█████╗  ██╔██╗ ██║   ██║   ██████╔╝███████║██║     █████╔╝      ██╔╝
-██║     ██║   ██║██║     ██╔═██╗ ██║  ██║██╔══╝  ██║╚██╗██║   ██║   ██╔══██╗██╔══██║██║     ██╔═██╗      ╚═╝
-███████╗╚██████╔╝╚██████╗██║  ██╗██████╔╝███████╗██║ ╚████║   ██║   ██║  ██║██║  ██║╚██████╗██║  ██╗      ██╗
-╚══════╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝╚═════╝ ╚══════╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝      ╚═╝
+https://capsule-render.vercel.app/api?type=venom&height=300&text=Lockdentrack3&fontSize=70&color=0:00FF41,100:003B00&stroke=00FF41&strokeWidth=2&fontColor=00FF41&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Code%20Architect&descSize=18&descAlignY=75&descAlign=50 
 ```
-  
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=ACCESS+GRANTED+%F0%9F%94%93;System+Initializing...;sudo+rm+-rf+boring_readme;Deploying+Elite+Profile...;Welcome+to+my+Terminal+%3E_%3E)
-
-
 
 </div>
 
