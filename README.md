@@ -1,9 +1,4 @@
-Ini bro, copy semua dari sini, langsung paste ganti isi README lo:
-
-```markdown
 <div align="center">
-
-```
 ██╗      ██████╗  ██████╗██╗  ██╗██████╗ ███████╗███╗   ██╗████████╗██████╗  █████╗  ██████╗██╗  ██╗ ██████╗
 ██║     ██╔═══██╗██╔════╝██║ ██╔╝██╔══██╗██╔════╝████╗  ██║╚══██╔══╝██╔══██╗██╔══██╗██╔════╝██║ ██╔╝╚════██╗
 ██║     ██║   ██║██║     █████╔╝ ██║  ██║█████╗  ██╔██╗ ██║   ██║   ██████╔╝███████║██║     █████╔╝      ██╔╝
@@ -11,9 +6,7 @@ Ini bro, copy semua dari sini, langsung paste ganti isi README lo:
 ███████╗╚██████╔╝╚██████╗██║  ██╗██████╔╝███████╗██║ ╚████║   ██║   ██║  ██║██║  ██║╚██████╗██║  ██╗      ██╗
 ╚══════╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝╚═════╝ ╚══════╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝      ╚═╝
 ```
-
-
-
+  
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=ACCESS+GRANTED+%F0%9F%94%93;System+Initializing...;sudo+rm+-rf+boring_readme;Deploying+Elite+Profile...;Welcome+to+my+Terminal+%3E_%3E)
 
 
@@ -26,7 +19,7 @@ Ini bro, copy semua dari sini, langsung paste ganti isi README lo:
 
 ## `> whoami`
 
-```bash
+```
 $ cat /etc/profile.d/lockdentrack3.conf
 
 NAME        : Lockdentrack3
@@ -161,32 +154,6 @@ CLEARANCE   : LEVEL 9 — UNRESTRICTED
 
 </div>
 
-> **Aktifin snake game:** Buat file `.github/workflows/snake.yml` isi dengan ini:
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule: [{cron: "0 0 * * *"}]
->   workflow_dispatch:
-> jobs:
->   generate:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk@v3
->         with:
->           github_user_name: Lockdentrack3
->           outputs: |
->             dist/github-contribution-grid-snake.svg
->             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3.1.0
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
-
----
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## `> netstat -an | grep OPEN`
@@ -225,6 +192,3 @@ CLEARANCE   : LEVEL 9 — UNRESTRICTED
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer&fontColor=00FF41" width="100%"/>
 
 </div>
-```
-
----
