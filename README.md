@@ -5,11 +5,10 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ```
-$ cat /etc/profile.d/lockdentrack3.conf
+$ cat /etc/profile.d/imDeNismUhAmmaD.conf
 
-NAME        : Lockdentrack3
-STATUS      : [ ONLINE ] ████████████████ 100%
-ROLE        : Full Stack Developer | Code Architect
+NAME        : imDeNismUhAmmaD
+ROLE        : Code Architect
 LOCATION    : /dev/earth
 MISSION     : Building things that matter
 CLEARANCE   : LEVEL 9 — UNRESTRICTED
