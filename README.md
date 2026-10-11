@@ -1,8 +1,6 @@
 </div>
 
 ```
-$ cat /etc/profile.d/imDeNismUhAmmaD.conf
-
 NAME        : imDeNismUhAmmaD
 ROLE        : OP
 MISSION     : Building things that matter
