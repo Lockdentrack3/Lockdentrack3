@@ -4,8 +4,7 @@
 $ cat /etc/profile.d/imDeNismUhAmmaD.conf
 
 NAME        : imDeNismUhAmmaD
-ROLE        : Code Architect
-LOCATION    : /dev/earth
+ROLE        : OP
 MISSION     : Building things that matter
 
 ```
