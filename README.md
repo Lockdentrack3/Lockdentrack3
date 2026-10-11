@@ -14,6 +14,5 @@ CLEARANCE   : LEVEL 9 — UNRESTRICTED
 [+] Currently learning    → new exploits & stacks
 [!] Fun fact              → I code faster than I think
 ```
-![Profile Views](https://komarev.com/ghpvc/?username=Lockdentrack3&color=00ff41&style=for-the-badge&label=VISITORS)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer&fontColor=00FF41" width="100%"/>
 </div>
