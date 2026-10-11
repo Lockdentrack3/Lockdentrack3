@@ -14,9 +14,6 @@ CLEARANCE   : LEVEL 9 — UNRESTRICTED
 [+] Currently learning    → new exploits & stacks
 [!] Fun fact              → I code faster than I think
 ```
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Lockdentrack3&color=00ff41&style=for-the-badge&label=VISITORS)
